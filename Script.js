@@ -32,4 +32,3 @@ yesButton.addEventListener("click", function() {
         }, duration * 1000);
     }
 });
-
